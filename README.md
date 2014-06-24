@@ -1,4 +1,3 @@
-bbaker13.github.io
-==================
+#My personal github homepage. 
 
-My personal account GitHub Pages website
+This is a test page.
